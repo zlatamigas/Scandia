@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/64004682/182023903-1e662668-573e-4f44-ad27-c0deeb004498.png" alt="icon" width="30"/> Scandia
 
 ## Description
-Scandia is a static site about Scandinavian mythology in rhe Russian language.
+Scandia is a static site about Scandinavian mythology in the Russian language.
 
 ## Usage
 </p>
