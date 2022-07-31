@@ -13,13 +13,6 @@ Scandia is a static site about Scandinavian mythology in Russian language.
 
 </p>
 <p align="center">
-  <kbd> <img alt="" src="https://user-images.githubusercontent.com/64004682/182024810-3213672b-c85a-4d41-b0a2-9dd9ba2e3425.png" width="100%" style="border-radius:10px"\></kbd> 
-</p>
-<p align="center">Gods</p>
-<br>
-
-</p>
-<p align="center">
   <kbd> <img alt="" src="https://user-images.githubusercontent.com/64004682/182024630-a1d3992e-5104-45bd-9844-b988f397e3ec.png" width="100%" style="border-radius:10px"\></kbd> 
 </p>
 <p align="center">Myths</p>
@@ -30,4 +23,11 @@ Scandia is a static site about Scandinavian mythology in Russian language.
   <kbd> <img alt="" src="https://user-images.githubusercontent.com/64004682/182024583-a73885b1-7385-402b-9cec-13963a84cce9.png" width="100%" style="border-radius:10px"\></kbd> 
 </p>
 <p align="center">Mythical creatures</p>
+<br>
+
+</p>
+<p align="center">
+  <kbd> <img alt="" src="https://user-images.githubusercontent.com/64004682/182024810-3213672b-c85a-4d41-b0a2-9dd9ba2e3425.png" width="100%" style="border-radius:10px"\></kbd> 
+</p>
+<p align="center">Gods</p>
 <br>
