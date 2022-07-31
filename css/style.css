@@ -1,0 +1,150 @@
+body{
+    background-color: dimgray;
+}
+.logo-style{
+    float: left; 
+    transform: rotate(340deg);
+}
+.navbar {
+    margin-bottom: 10px;
+    border-radius: 0;
+    font-size: 2rem;
+    font-family: 'Vollkorn', serif;
+}
+.navbar-header span{
+    font-size: 2.6rem;
+}
+.content{
+    background-color: beige;
+    border-radius: 10px;
+}
+.main-content{
+    padding: 20px 20px;
+    margin: 20px 20px;
+}
+.main-content h1{
+    font-size: 3rem;
+    font-family: 'Libre Baskerville', serif;
+}
+.main-content p{
+    font-size: 1.7rem;
+    font-family: 'Vollkorn', serif;
+    text-align: justify;
+    margin: auto 10px;
+}
+.main-content img{
+    width:100%;
+    float:none; 
+    margin: 30px 0px;
+    border: solid rgba(0,0,0,.5);
+    border-radius: 10px;
+}
+hr{ 
+    border-color:#32312D; 
+}
+.panel-primary{
+    background-color: #4A4646;
+    border-color:#32312D;
+}
+.panel-heading.panel-scand{
+    text-align: center;
+    font-size: 15px; 
+    background-color: #32312D;
+    border: none;
+}         
+.img-responsive{
+    width:100%;
+}
+a{
+    color: #EBB82B;
+}
+a:hover{
+    color: #D7710C;
+    text-decoration-line: none;
+}
+ol{
+    margin-left: 20px;
+}
+ol li{
+    font-size: 2.7rem;
+    font-family: 'Libre Baskerville', serif;
+}
+p ul li{
+    font-size: 1.5rem;
+}
+.f-styling{
+     background: rgba(0,0,0,.8);
+}
+th{
+    text-align: center;
+    font-family: 'Vollkorn', serif;
+}
+tr{
+    font-size: 1.7rem;
+    vertical-align: middle;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+}
+figure {
+    float: left;
+    margin: 0 20px 0;
+}
+figcaption {
+    text-align: center;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.btn{    
+    font-family: 'Libre Baskerville', serif;
+    margin-left: 30px;
+}
+.btn:hover{
+    outline-color: rgba(0,0,0,.8);
+    text-decoration: none;   
+}
+.btn:focus{
+    outline-color: none;
+    text-decoration: none; 
+}
+.card-header h3{
+    color:rgba(0,0,0,.8);
+}
+.card{
+    border-bottom: dashed 1px rgba(0,0,0,.4);
+}
+footer {
+  background-color: #555;
+  color: white;
+  padding: 15px;
+}
+.btn_up {
+    position:fixed;
+    bottom: -100px;
+    right:30px; 
+    width:70px;
+    height: 70px;
+    
+    border-radius: 50%;
+    border: none;
+    background: #32312D;
+    z-index: 2; 
+    outline: 0!important;
+    transition: .4s;
+}
+.btn_up:after{
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-top:2px solid #EBB82B;
+    border-left:2px solid #EBB82B;
+ transform: rotate(45deg);
+    position: absolute;
+    top:4px;
+    bottom: 0;
+    left:0;
+    right: 0;
+    margin: auto; 
+}
+.btn_up.active{
+    bottom: 30px;
+}
